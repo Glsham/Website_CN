@@ -1,0 +1,94 @@
+.background{
+    background:url(images/Nebula.jpg);
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    padding:20px;
+    border-style:solid;
+    background-color: rgba(0, 0, 0, 0.681);
+    size:1px;
+    margin: 20px;
+    text-align: center  ;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+}
+/* INDEX PAGE */
+.header {
+    padding:20px 50px 10    px 100px;
+    border-style:solid;
+    background-color: rgba(0, 0, 0, 0.681);
+    size:1px;
+    border: 10;
+    margin: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center  ;
+    font-size: 20px;
+    font-weight: bold;
+
+    color: white;
+}
+#profile_picture img{
+    display: block;
+    margin: left;
+    margin: right;
+    width: 70%;
+}
+
+.para1 p {
+    padding:20px;
+    border-style:solid;
+    background-color: rgba(0, 0, 0, 0.681);
+    size:1px;
+    margin: 50px;
+    margin-right: 100px;
+    color:white;
+    margin-left: 100px;
+    text-align: left;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* CONTACT US PAGE */
+.contact_us{
+    padding:50px;
+    border-style:solid;
+    background-color: rgb(255, 255, 255, 0.5);
+    size:1px;
+    margin: 50px;
+    color:black;
+    text-align: left;
+}
+.para2 p{
+    padding:50px;
+    border-style:solid;
+    background-color: rgba(0, 0, 0, 0.681);
+    size:1px;
+    margin: 50px;
+    margin-right: 600px;
+    color:white;
+    margin-left: 100px;
+    text-align: left;
+    font-weight: bold;
+    float: right;
+}
+/* DRAGONBALL */
+
+.db1 p {
+    border-style:solid;
+    background-color: rgba(0, 0, 0, 0.681);
+    size:1px;
+    margin: 50px;
+    margin-right: 100px;
+    color:white;
+    margin-left: 100px;
+    text-align: left;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dbimg img{
+    width: 30%;
+}
